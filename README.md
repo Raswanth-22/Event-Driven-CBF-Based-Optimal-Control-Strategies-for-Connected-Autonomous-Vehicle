@@ -9,4 +9,5 @@
 ![Merging](images/merging.gif)
 
 ### LQR
+
 ![Demo](images/upload_aa38a686.gif)
